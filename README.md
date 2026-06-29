@@ -15,28 +15,28 @@ Acesse a simulação completa do circuito:
 
 ## Componentes
 
-| REF. | Componente | Especificação | Qtd. |
-|------|-----------|---------------|------|
-| BR1 | Ponte Retificadora | 4x 1N4001 | 1 |
-| C1 | Capacitor Eletrolítico | 680µF / 25V | 1 |
-| U1 | Regulador Ajustável | LM317T | 1 |
-| R1 | Resistor | 240Ω / 1% | 1 |
-| P1 | Potenciômetro | 5kΩ Linear | 1 |
-| R2a, R2b | Resistores em série | 2x 2,2kΩ (em paralelo com P1) | 2 |
-| R3 | Resistor | 1kΩ | 1 |
-| LED1 | LED | Vermelho 5mm | 1 |
-| — | Protoboard | T2PB89 830P (2 barras dist. 100P) | 1 |
-| — | Cabos Jumper | Macho-Macho 20cm | 1 kit |
+| REF.     | Componente             | Especificação                     | Qtd.  |
+| -------- | ---------------------- | --------------------------------- | ----- |
+| BR1      | Ponte Retificadora     | 4x 1N4001                         | 1     |
+| C1       | Capacitor Eletrolítico | 680µF / 25V                       | 1     |
+| U1       | Regulador Ajustável    | LM317T                            | 1     |
+| R1       | Resistor               | 240Ω / 1%                         | 1     |
+| P1       | Potenciômetro          | 5kΩ Linear                        | 1     |
+| R2a, R2b | Resistores em série    | 2x 2,2kΩ (em paralelo com P1)     | 2     |
+| R3       | Resistor               | 1kΩ                               | 1     |
+| LED1     | LED                    | Vermelho 5mm                      | 1     |
+| —        | Protoboard             | T2PB89 830P (2 barras dist. 100P) | 1     |
+| —        | Cabos Jumper           | Macho-Macho 20cm                  | 1 kit |
 
 ---
 
 ## Custo do Projeto
 
-| Categoria | Valor |
-|-----------|-------|
-| Componentes eletrônicos | R$ 47,10 |
-| Protoboard + jumpers | R$ 45,00 |
-| **Total** | **R$ 92,10** |
+| Categoria               | Valor        |
+| ----------------------- | ------------ |
+| Componentes eletrônicos | R$ 47,10     |
+| Protoboard + jumpers    | R$ 45,00     |
+| **Total**               | **R$ 92,10** |
 
 ---
 
@@ -105,13 +105,12 @@ $$P = (V_{in} - V_{out}) \cdot I = (17{,}83 - 3) \cdot 0{,}1 = \mathbf{1{,}48 \t
 ## PCB
 
 O layout da placa foi desenvolvido no EasyEDA.
-
-<!-- Insira aqui uma imagem da PCB, por exemplo: -->
-<!-- ![PCB](imagens/pcb.png) -->
+![PCB](Imagens/pcb.png)
 
 ---
 
 ## Integrantes
+
 - Henrique Alcici Sanchez - 17895852
 - João Matheus Frota Girão - 17899582
 - João Pedro Cremasco Luiz — 17899853

@@ -105,7 +105,7 @@ $$P = (V_{in} - V_{out}) \cdot I = (17{,}83 - 3) \cdot 0{,}1 = \mathbf{1{,}48 \t
 ## PCB
 
 O layout da placa foi desenvolvido no EasyEDA.
-![PCB](Imagens/pcb.png)
+![PCB](Imagens/PCB.png)
 
 ---
 

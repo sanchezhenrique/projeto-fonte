@@ -109,6 +109,15 @@ O layout da placa foi desenvolvido no EasyEDA.
 
 ---
 
+---
+
+## Vídeo Funcionamento
+
+O layout da placa foi desenvolvido no EasyEDA.
+[Vídeo Youtube](https://youtu.be/VjjmKheMsuE?si=zQvtlzs97EtKBth1)
+
+---
+
 ## Integrantes
 
 - Henrique Alcici Sanchez - 17895852

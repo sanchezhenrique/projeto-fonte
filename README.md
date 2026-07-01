@@ -6,6 +6,13 @@ O circuito implementa uma fonte de tensão DC ajustável utilizando o regulador 
 
 ---
 
+## Projeto Montato
+
+O projeto foi montado em uma Protoboard
+![FOTO](Imagens/fonte.jpeg)
+
+---
+
 ## Simulação no Falstad
 
 Acesse a simulação completa do circuito:  
@@ -106,8 +113,6 @@ $$P = (V_{in} - V_{out}) \cdot I = (17{,}83 - 3) \cdot 0{,}1 = \mathbf{1{,}48 \t
 
 O layout da placa foi desenvolvido no EasyEDA.
 ![PCB](Imagens/PCB.png)
-
----
 
 ---
 
